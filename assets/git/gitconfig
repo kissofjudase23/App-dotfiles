@@ -1,13 +1,13 @@
 [user]
     name = Tom Lin
-    email = kissofjudase23@gmail.com
+    email = tomlin@synology.com
 [core]
     # let git uses the editor set by $EDITOR or $VISUAL
     # editor = vim
 
     # checkout as-is, commit unix style format
     autocrlf = input
-    # checkou as-is, commit as-is 
+    # checkou as-is, commit as-is
     #autocrlf = false
 [color]
     ui = true
