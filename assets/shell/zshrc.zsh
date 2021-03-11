@@ -134,3 +134,10 @@ source $ZSH/oh-my-zsh.sh
 
 
 [[ -s "/Users/tomlin/.gvm/scripts/gvm" ]] && source "/Users/tomlin/.gvm/scripts/gvm"
+
+
+# syno env
+# Created by `userpath` on 2021-02-08 06:27:00
+export PATH="$PATH:/home/tomlin/.local/bin"
+export VAULT_ADDR='https://cst-vault.syno:8200'
+export VAULT_SKIP_VERIFY=true
